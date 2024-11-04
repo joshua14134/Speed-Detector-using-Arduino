@@ -33,7 +33,7 @@ This project is an Arduino-based speed detector system that uses two sensors to 
 **Note**: Connect the 10k potentiometer to the LCD to adjust the contrast for optimal display readability.
 
 ![Circuit Diagram](circuit_diagram1.jpg)
-![Circuit Diagram](circuit_diagram2.jpg)
+![Circuit Diagram](circuit_diagram2.png)
 
 ## How to Use
 
