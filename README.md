@@ -2,7 +2,7 @@
 
 This project is an Arduino-based speed detector system that uses two sensors to measure the speed of a passing object. If the detected speed exceeds a threshold (150 km/h in this example), a warning LED is triggered, and a "Warning! Speed!" message is displayed on the LCD screen.
 
-![Speed Detector](speed_detector1.jpg)
+![Speed Detector](speed_detecto1.jpg)
 
 ## Features
 
